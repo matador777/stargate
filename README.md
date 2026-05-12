@@ -20,3 +20,4 @@ Thank you to the core development team for helping build the Stargate smart cont
 
 The primary license for LayerZero is the Business Source License 1.1 (BUSL-1.1). see [`LICENSE`](./LICENSE).
 Builder Network
+Improve project documentation
